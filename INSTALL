@@ -1,0 +1,9 @@
+Building GoodBoyPoints
+
+See doc/readme-qt.rst for instructions on building goodboypoints-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GoodBoyPoints.
+
+See doc/build-*.txt for instructions on building goodboypoints,
+the intended-for-services, no-graphical-interface, reference
+implementation of GoodBoyPoints.
